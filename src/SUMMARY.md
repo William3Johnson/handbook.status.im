@@ -5,6 +5,7 @@
 - [Our principles](./our-principles.md)
 - [Directory of Core Contributors](./catalog.md)
 - [Settling in](./settling-in/index.md)
+     - [Buddy program](./settling-in/onboarding-buddy.md)
      - [Your autonomy](./settling-in/your-autonomy/index.md)
         - [Self-time management](./settling-in/your-autonomy/self-time-management.md)
         - [Downtime FAQs](./settling-in/your-autonomy/downtime-faqs.md)
