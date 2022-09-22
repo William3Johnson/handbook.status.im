@@ -73,7 +73,7 @@ You can book your stay at a 3-4 star hotel or Airbnb. We generally recommend hot
 
 Airbnbs are more practical for spending quality time together and setting a coworking space in the dining or living room than a hotel. It's also more convenient to coordinate meals and share rides to/from the event or airport when we're staying together.
 
-If you are organising a team off-site, consider reaching out to your People Partner who can help with logistics and bookings of AirBnb's.
+If you are organising a team off-site, reach out to your People Partner who can help with logistics and bookings of AirBnb's.
 
 
 > 💡 Pro-tip: it's useful to check the wifi speed of your accommodation before confirming a booking. 
