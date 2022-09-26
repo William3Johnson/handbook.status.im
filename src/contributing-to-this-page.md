@@ -8,7 +8,7 @@ Here are you'll find helpful guidelines on how to contribute to this guide and m
 
 Whether you'd like to fix typos, update information, add sections, or build new content, you can create a pull request to contribute to the handbook. 
 
-Our current workflow has two main branches: `mater` that deploys to `[contributors.status.im](https://contributors.status.im)` and `develop` that deploys to `[dev-contributors.status.im](https://dev-contributors.status.im)`. 
+Our current workflow has two main branches: `master` that deploys to `[contributors.status.im](https://contributors.status.im)` and `develop` that deploys to `[dev-contributors.status.im](https://dev-contributors.status.im)`. 
 
 Before creating a pull request, create a new branch from `develop` and commit your changes to one or multiple PRs. Once finished, assign someone from the People Ops team to review or comment on it. Once merged, we'll delete the branch, and you'll see your contributions on this guide!
 
