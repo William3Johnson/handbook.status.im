@@ -14,7 +14,7 @@ You need to include your total expenses per category in your invoice (and these 
 
 Your invoice should include:
    * Your legal name and address as per your agreement.
-   * A unique invoice number.
+   * A unique invoice number (this number should be sequential based on your invoice numbering, if you have any questions, please reach out to the Finance and Accounting team, or your accountant, if you have one).
    * The date the invoice is issued.
    * Payment due date.
    * Status legal entity with which you have the services agreement.
@@ -22,11 +22,11 @@ Your invoice should include:
    * Description of the service rendered or reference to your contract.
    * Total per category for expense reimbursements being claimed as per the [expense reimbursements guide](/src/finance/expense-reimbursements.md/).
    * According to your agreement, the full fee and the fiat currency (in CHF, USD, EUR, or other).
-   * Your contributor number as per your Bamboo profile.
+   * Your contributor number as per your BambooHR profile.
 
 ![Invoice II](../images/invoice-ii.png)
 
-You can use [this template](https://docs.google.com/spreadsheets/d/1FbH0CxLqar0ZyjhiMEA5ceToL2ikv5C-Rv-qCwBNeRA/edit#gid=790763898), but please remember to download the finished invoice as a PDF before sending it and that the exported PDF is on a single page.
+You can create a copy of the invoice using [this template](https://docs.google.com/spreadsheets/d/1FbH0CxLqar0ZyjhiMEA5ceToL2ikv5C-Rv-qCwBNeRA/edit#gid=790763898). Please remember to download the finished invoice as a PDF before sending it and that the exported PDF is on a single page.
 
 Address the invoice to the Status legal entity with which you have your agreement. The primary Status Legal Entities are:
    * Status Research & Development GmbH, Baarerstrasse 10, 6302 Zug, Switzerland
@@ -39,13 +39,13 @@ There are exceptional cases where another legal entity applies. Please use the c
 
 ### Bank and Wallet details
 
-Please maintain your details on your Bamboo profile if you have one. For simplicity, we only allow the indication of one wallet and one bank account (if you have intermediary accounts, please use the appropriate fields of the Bank Information section). You can edit it directly if you want to change the % paid in ETH, DAI, or SNT. Once you save it, it will send an approval request to the Finance team —the reason is so that we get a notification that something's changed and can update our payment records timely.
+Please maintain your details on your BambooHR profile if you have one. For simplicity, we only allow the indication of one wallet and one bank account (if you have intermediary accounts, please use the appropriate fields of the Bank Information section). You can edit it directly if you want to change the % paid in ETH, DAI, or SNT. Once you save it, it will send an approval request to the Finance team —the reason is so that we get a notification that something's changed and can update our payment records timely.
 
-Only after we confirm the approval will your changes be reflected in your Bamboo profile, and you can then change your payment split preferences again.
+Only after we confirm the approval will your changes be reflected in your BambooHR profile, and you can then change your payment split preferences again.
 
 If you need a specific reference to complete this payment, please state it explicitly on your invoice.
 
-> ⚠️ To make sure that your changes are considered for the current month, change your info before the 15th. Remove accented or special characters. We can only correctly upload plain text to the system.
+> ⚠️ To make sure that your changes are considered for the current month, change your info before the 15th of each month. Remove accented or special characters. We can only correctly upload plain text to the system.
 
 Please be sure that your services agreement reflects your registered address for banking purposes, as our bank sometimes asks us to validate that banking details match contract details.
 
@@ -64,7 +64,7 @@ For determining rates when paying in crypto, we establish the following two rate
    * The average closing rate across the last five days of the invoiced period, OR
    * The current rate when payments are being issued.
 
-You can change your split % preference monthly. Just make sure you update your preferences on Bamboo before the 15th of the month.
+You can change your split % preference monthly. Just make sure you update your preferences on before the 15th of each month.
 
 ## Special situations
 
