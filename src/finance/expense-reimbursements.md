@@ -8,10 +8,7 @@ You can request a reimbursement for expenses incurred on behalf of Status during
    * [Traveling for Status](src/remote-at-status/traveling-for-status.md)
    * [Essential reading](src/fundamentals/essential-reading.md)
 
-It's essential that you carefully read the following instructions to get reimbursed and so we can file expenses correctly. The standard expense reimbursement process uses:
-   * [Expensify](https://www.expensify.com/) to report and store the expense receipts, <br>
-AND
-   * Adding expenses to your monthly invoice sent to `billing@statusm.im` to send the reimbursement.
+It's essential that you carefully read the following instructions to get reimbursed and so we can file expenses correctly. In order to get your expenses reimbursed correctly and in time you will need [Expensify](https://www.expensify.com/) to report and store the expense receipts, and add these expenses to your monthly invoice sent to `billing@statusm.im`.
 
 In addition to these notes, you can also view our video walkthrough [here](https://youtu.be/04YB_Xz48E8). 
 
