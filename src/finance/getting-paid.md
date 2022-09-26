@@ -26,7 +26,7 @@ Your invoice should include:
 
 ![Invoice II](../images/invoice-ii.png)
 
-You can create a copy of the invoice using [this template](https://docs.google.com/spreadsheets/d/1FbH0CxLqar0ZyjhiMEA5ceToL2ikv5C-Rv-qCwBNeRA/edit#gid=790763898). Please remember to download the finished invoice as a PDF before sending it and that the exported PDF is on a single page.
+You can create an invoice by downloading/copying [this template](https://docs.google.com/spreadsheets/d/1FbH0CxLqar0ZyjhiMEA5ceToL2ikv5C-Rv-qCwBNeRA/edit#gid=790763898). Please remember to download the finished invoice as a PDF before sending it and that the exported PDF is on a single page.
 
 Address the invoice to the Status legal entity with which you have your agreement. The primary Status Legal Entities are:
    * Status Research & Development GmbH, Baarerstrasse 10, 6302 Zug, Switzerland
