@@ -10,7 +10,7 @@ You can request a reimbursement for expenses incurred on behalf of Status during
 
 It's essential that you carefully read the following instructions to get reimbursed and so we can file expenses correctly. In order to get your expenses reimbursed correctly and in time you will need [Expensify](https://www.expensify.com/) to report and store the expense receipts, and add these expenses to your monthly invoice sent to `billing@statusm.im`.
 
-In addition to these notes, you can also view our video walkthrough [here](https://youtu.be/04YB_Xz48E8). 
+In addition to these notes, you can find a guide [here](https://docs.google.com/document/d/1UX9uizHnJDXZjghiXiBGUexrQxxaiyv3-KpyKfHYJKU/edit#) and you can also view our video walkthrough [here](https://youtu.be/04YB_Xz48E8). 
 
 ## How to report expenses through Expensify
 
@@ -90,7 +90,7 @@ If you need to share the report with your accountant, you can download a PDF rep
 
 ![alt text](https://people-ops.status.im/content/images/2021/08/Exp-2.png)
 
-## When you're going to be reimbursed
+## When are you getting reimbursed
 
 Expense reimbursements are paid together with the monthly compensation invoice. If you have questions or concerns regarding the expense reimbursement date, please get in touch with the Finance team, and we'll be happy to help you with that.
 
