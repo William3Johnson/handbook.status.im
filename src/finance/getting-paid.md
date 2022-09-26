@@ -96,14 +96,20 @@ Please use the working days shown below for your calculations:
 
 **Working days 2022**
 
-| Month | Working days | 
+| Month | Working days |
 |:---:|:---:|
-| January - 21 | February - 20 | 
-| March - 23 | April - 21 |
-| May - 22 | June - 22 |
-| July - 21 | August - 23 | 
-| September - 22 | October - 21 | 
-| November - 22 | December - 22 |
+| January | 21 |
+| February | 20 |
+| March | 23 |
+| April | 21 |
+| May | 22 |
+| June | 22 |
+| July | 21 |
+| August | 23 |
+| September | 22 |
+| October | 21 |
+| November | 22 |
+| December | 22 |
 
 ### Expense Reimbursements
 
