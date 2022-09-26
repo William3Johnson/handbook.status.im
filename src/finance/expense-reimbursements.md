@@ -20,7 +20,15 @@ We use Expensify to store and report the expense details and receipts incurred o
 
 You'll need to head to the [Expensify](https://www.expensify.com/) web or download the mobile app and sign in using your Status email to get started. Please input your full name as it appears in your BambooHR profile when setting up your Expensify account.
 
+If you don’t have access to your account, please reach out to the Finance team to create or update your account. 
+
 ![expensify-login](/src/images/expensify-login.png/)
+
+### Selecting the right policy
+
+Once you have logged in please ensure that you are claiming your expenses under the correct policy. Your policy should match the correct Status entity and your invoicing currency.
+
+![expensify-policy](/src/images/expensify-policy.png/)
 
 ### Uploading expenses
 
