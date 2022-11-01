@@ -28,7 +28,7 @@
      - [Health resources for your home office](./perks/health-resources-for-your-office.md)
 - [Contributing to Status](./working-here/index.md)
      - [Traveling for Status](./working-here/traveling-for-status.md)
-- [Your most important role](./hiring/index.md)
+- [Your most important role](./hiring/referrals.md)
 
 *****
 
