@@ -23,6 +23,7 @@
      - [Expense reimbursements](./finance/expense-reimbursements.md)
 - [Perks](./perks/index.md)
      - [Computers and devices](./perks/computers-and-devices.md)
+     - [Coworking allowance](./perks/coworking-allowance.md)
      - [Events and meetups](./perks/events-and-meetups.md)
      - [Health resources for your home office](./perks/health-resources-for-your-office.md)
 - [Contributing to Status](./working-here/index.md)
