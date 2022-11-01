@@ -1,4 +1,4 @@
-# 🖥 Computers and devices
+# 🖥 Laptops and devices
 
 Having the proper setup is fundamental to ensure you can work comfortably to successfully deliver services to Status. We hold our principles dear and support you as a core contributors with some of the tools you might need  to succeed in providing services to Status using secure, decentralized devices. 
 
