@@ -1,6 +1,6 @@
 # 🏓 Coworking Allowance
 
-The coworking allowance offers core contributors some flexibility to find a workspace different from your [home office](../src/perks/computers-and-devices.md) if needed. It's non-transferrable for other expenses in case you don't make use of it.
+The coworking allowance offers core contributors some flexibility to find a workspace different from your home office if needed. It's non-transferrable for other expenses in case you don't make use of it.
 
 You can expense up to 300 USD (or local currency equivalent) per month for coworking costs.
 
