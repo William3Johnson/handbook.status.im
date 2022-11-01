@@ -12,11 +12,11 @@ The standard setup for everyone includes a laptop, headphones, a Keycard, a Yubi
 
 We defined the amounts to cover a range of options, so you will stay below that budget in most cases. When that happens, note that pre-approved amounts aren't "balances," and you can't spend the difference for other stuff.
 
-   * Laptop: up to 3000 USD
-   * Mic and headphones: up to 120 USD
+   * Laptop: up to USD 3,000
+   * Mic and headphones: up to USD 120
    * Keycard: ping the #keycard channel to get a code 
-   * Yubikey: you can reimburse one
-   * Ledger: you can reimburse one
+   * Yubikey: you can reimburse one (approx USD 50)
+   * Ledger: you can reimburse one (approx USD 80)
 
 For additional funds per item or other tools, you need to obtain a previous approval from your team lead and add the approval details to your reimbursement. 
 
