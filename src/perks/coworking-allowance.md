@@ -16,9 +16,9 @@ You can't use the allowance for:
 
 >😃 An example of a claimable expense: EUR 200 for co-working space + EUR 50 on drinks consumed at the co-working space;  
 or  
-EUR 50 consumed on drinks at a space used for working outside your home office.
+EUR 50 consumed on drinks at a space **used for working** outside your home office.
 
->😡 An example of a non-claimable expense: EUR 0-250 consumed on drinks at a space that you don't use for work outside your home office.
+>😡 An example of a non-claimable expense: EUR 0-250 consumed on drinks at a space when you are not contributing to the Status project. 
 
 Please keep the invoices/receipts and submit your costs through Expensify as per the [expense reimbursement guidelines](/src/finance/expense-reimbursement.md), specifying Coworking as the Category detailing the expense in the comments field of your expense line item. 
 
