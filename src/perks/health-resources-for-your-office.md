@@ -29,15 +29,11 @@ It's actually a pretty simple theory, and it's a matter of bringing consciousnes
 
 Experts recommend a posture where the neck, shoulder, and lower back are aligned with your monitor at eye level. Ideally, you'd switch from sitting to a standing desk, so you strike rules one and two all at once.
 
-Check out Workspace and equipment perks to get yourself a suitable desk and ergonomic chair setup, plus an external monitor if needed. 
-
 Most injuries are reversible, so if you experience pain or discomfort, seek advice.
 
 ### 🌀 Blue light
 
 Blue light can mess with your sleep, and speed up blindness.
-
-> 🤟🏽 Shout out @mamy for suggesting this topic!
 
 Some ideas for minimizing the strain on your eyes:
 Enable Night Shift or a similar blue light reduction app on your mobile device. Night Shift pro tip - move the color temperature slider to warm because the default still allows some blue light.
@@ -49,11 +45,13 @@ Got any other tips and tricks for filtering blue light? Create a PR!
 
 ### 🔆 Headspace: manage stress and unwind
 
-We've heard that a few folks would appreciate help managing stress, so we've secured some accounts with Headspace. Headspace is one of the leaders in this space, an app that focuses on mindfulness and meditation and has a range of tailored workouts for the mind. There's [research](https://www.headspace.com/science/meditation-research) that their app can positively impact stress, focus, mood, and work. 
+Headspace is one of the leaders in this space, an app that focuses on mindfulness and meditation and has a range of tailored workouts for the mind. There's [research](https://www.headspace.com/science/meditation-research) that their app can positively impact stress, focus, mood, and work. 
 
-To use one of the subscriptions, signup with your @status.im email [here](https://work.headspace.com/status/join).
+If you work at Status, you can enjoy a premium subscription as a perk (free of charge). To use one of the subscriptions, signup with your @status.im email [here](https://work.headspace.com/status/join). If there are no available seats, please reach out to your People Ops Partner and they will purchase a new seat for you. 
 
-While meditation won't be for everyone, we hope that some of you will find Headspace useful. We also encourage you to ping the People Ops team for advice or reach a therapist or executive coach for support. Most times, a couple sessions would do to unlock a situation! 
+[Here](https://drive.google.com/drive/folders/122aJjQRK-CCnC0f_y8vWRAhiLQR_f9H9) you can find some helpful resources to help you. 
+
+While meditation might not be for everyone, we hope that some of you will find Headspace useful. We also encourage you to ping your People Ops Partner anytime for advice or support. 
 
 
 *****
